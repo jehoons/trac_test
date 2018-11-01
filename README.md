@@ -1,13 +1,4 @@
 # trac_test
 
-`this` is my trac test. 
+`this` is my test project for trac.
 
-bye! 
-!!
-
-
-sdfjlsjdf
-
-11
-
-22
